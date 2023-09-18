@@ -1,6 +1,6 @@
-# myecom-test
+# My E-COMMERCE TEST
 
-This repo is blank, only used for testing git and learning git.
+This repo is blank, and only used for testing git and learning git.
 
 # Adding Task of DB design
 
